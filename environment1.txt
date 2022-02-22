@@ -1,0 +1,5 @@
+3 3
+0 2 east 7 1 100 1 1 1 1
+xx xx FF
+TT TF TF
+TT FF FT
